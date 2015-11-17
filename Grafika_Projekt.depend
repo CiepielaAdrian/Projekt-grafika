@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1447352713 source:d:\informatyka\semestr 3\grafika\laboratoria\grafika_projekt\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+
+1447402729 source:e:\materia³y na zaj\semestr 3\grafika\projekt\grafika_projekt\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<unistd.h>
+
