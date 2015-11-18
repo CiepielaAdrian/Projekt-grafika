@@ -49,7 +49,7 @@ void ReadBMP()
     fwrite(data, sizeof(unsigned char), volume, w);
 
 
-
+// raz dwa trzy
     fclose(f);
     fclose(w);
     delete(data);
